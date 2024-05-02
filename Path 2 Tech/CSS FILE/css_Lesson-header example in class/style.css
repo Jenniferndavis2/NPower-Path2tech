@@ -1,0 +1,20 @@
+/* Comments adjacent sibling */
+h1 +h2{
+    color: red
+}
+
+/* Comments general sibling */
+h3~h4{
+    color:blue;
+}
+
+/* Comments child combinator */
+ul > li { 
+    color: pink;
+}
+
+/* Comments Descendant Combinator */
+
+div p{
+    color: dodgerblue;
+}

@@ -1,0 +1,27 @@
+/* Adjacent Sibling Combinator (+) */
+.spell h3:hover + p {
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+}
+/* General Sibling Combinator (~) */
+.spell h3 ~ p {
+    background-color: #8d63db;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+/* Child Combinator (>) */
+.spell-chapter > h2 {
+    font-size: 24px;
+    color: #e9140d; /* Red */
+    border-bottom: 2px solid #0834c5; /* blue */
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+/* Descendant Combinator ( ) */
+.spell, .spell * {
+    border: 1px solid #0a0a0a;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}

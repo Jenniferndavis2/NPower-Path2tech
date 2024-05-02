@@ -1,0 +1,45 @@
+/* Color Names */
+p {
+    color: red;
+    background-color: skyblue;
+  }
+  /* Hexadecimal */
+  .hex {
+    color: #ff0000;
+    background-color: #87CEEB;
+  }
+  /* RGB */
+  .rgb {
+    color: rgb(255, 0, 0);
+    background-color: rgb(135, 206, 235);
+  }
+  /* RGBA */
+  .rgba {
+    color: rgba(255, 0, 0, 0.5);
+    background-color: rgba(135, 206, 235, 0.5);
+  }
+
+  /* HSL */
+.hsl {
+    color: hsl(0, 100%, 50%);
+    background-color: hsl(197, 72%, 71%);
+  }
+  /* HSLA */
+  .hsla {
+    color: hsla(0, 100%, 50%, 0.5);
+    background-color: hsla(197, 72%, 71%, 0.5);
+  }
+  .open-sans {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+
+  .micro-5{
+    font-family:"mICRO 5 Charted", san-serif;
+    font-weight: 400;
+    front-style: normal;
+  }

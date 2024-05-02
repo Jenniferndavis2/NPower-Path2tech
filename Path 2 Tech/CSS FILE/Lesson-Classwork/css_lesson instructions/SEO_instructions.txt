@@ -1,0 +1,5 @@
+Steps To Complete Assignment:
+1. The div with a class of "main", needs to be converted to a main element
+2. The rest of the divs need to get converted to sections
+3. The img with a class of "product-image" needs to have a proper alt tag with a good description, keep the description to between 5-10 words.
+4. In your style.css convert all the font sizes from px to rem, you should use an online calculator to convert the values.

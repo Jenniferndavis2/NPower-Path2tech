@@ -1,0 +1,32 @@
+/* Author: [Jennifer Davis]
+   Date: [4/15/24] */
+
+/* Color all <h1> tags with a bold and eye-catching color */
+h1 {
+    color: #e935cb; /* Eye-catching color */
+    font-weight: bold;
+}
+
+/* Implement different colors to multiple <h1> tags with different classes */
+.intro-onehighlight {
+    color: #73c9e6; /* Distinct color */
+}
+
+/* Implement different colors to multiple <h1> tags with different classes */
+.one.category1 {
+    color: #50eb3c; /* Different color */
+}
+
+.two.category2 {
+    color: #49b9ec; /* Different color */
+}
+
+/* Group Selectors */
+
+/* Apply a colored and/or stylized border */
+h1, p {
+    border: 2px solid #765fb4; /* Colored border */
+    border-radius: 8px; /* Rounded corners */
+    padding: 10px; /* Spacing */
+    margin: 10px 0; /* Spacing */
+}

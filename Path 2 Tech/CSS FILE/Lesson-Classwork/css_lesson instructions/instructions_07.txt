@@ -1,0 +1,10 @@
+Steps to complete assignment:
+1. For add-cart-btn class add styling "display: flex;", "flex-direction: row;", "justify-content: center;", "align-items: center;"
+2. For the main class add the styling "display: flex;", "flex-direction: column;", "justify-content: center;", "align-items: center;"
+3. For the product-card class add the styling "display: flex;", "flex-direction: row;"
+4. For the price class create the styling "display: flex;", "flex-direction: row;", "align-items: center;"
+5. For the product-image-container class change the height to "100%;"
+6. For the product-card class add "height: 450px;"
+7. For the title class change the font-size to "2rem;"
+8. For the category and description classes change the font-size to "1.05rem;"
+9. For the product-image class add the styling "border-top-left-radius: 10px;" and "border-bottom-left-radius: 10px;"

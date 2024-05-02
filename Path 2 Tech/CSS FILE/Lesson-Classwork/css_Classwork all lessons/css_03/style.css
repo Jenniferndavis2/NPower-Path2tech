@@ -1,0 +1,27 @@
+/*priority*/
+
+.intro{ 
+    color: green;
+}
+.one, .two{
+    color: orange;
+}
+ 
+/*Duplicates*/
+p{
+    color: red
+}
+
+p{
+    color: lime;
+
+}
+
+/*Inheritance*/
+#div{
+    color: pink;
+}
+
+#div{
+    color: black
+}
